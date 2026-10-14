@@ -19,7 +19,7 @@
 > **The Definitive Ecosystem Guide to Document Parsing, Vision OCR, Layout Extraction, Web Ingestion, and Multimodal LLM/RAG Data Pipelines.**  
 > *Curated for Data Engineers, AI Architects, and RAG Builders transforming complex PDFs, scans, office formats, and web content into clean structured Markdown & JSON.*
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![Tracked Engines](https://img.shields.io/badge/Tracked%20Engines-33%2B-blueviolet.svg?style=flat-square)](#table-of-contents)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-teal.svg?style=flat-square)](#)
 
@@ -38,6 +38,8 @@
 - [🧭 Decision Matrix: Choosing the Right Engine](#-decision-matrix-choosing-the-right-engine)
 - [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [⭐ Star History](#--star-history)
 - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
 ---
@@ -233,6 +235,29 @@ Contributions are welcome! Help us keep this directory the most comprehensive re
    - Ensure open-source projects include their official GitHub repo and star badge.
    - For SaaS products, provide exact starting tier pricing and specific free trial/tier limits.
 4. 🚀 **Submit a Pull Request** with a concise description of why the tool is valuable.
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring and utilizing **Awesome Unstructured Data Ingestion Engines**! If this curated guide assists your architectural decisions, saves research cycles, or streamlines your data ingestion pipelines:
+
+- ⭐ **Star this repository** on GitHub to keep it bookmarked and help others discover it.
+- 🍴 **Fork and contribute** your favorite parsers, benchmark data, or feature updates.
+- 📢 **Share with fellow practitioners** on X/Twitter, LinkedIn, Reddit, or Discord communities.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance, ecosystem research, and open-source tooling via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007):
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20%E2%9D%A4-ishandutta2007-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Unstructured-Data-Ingestion-Engines&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Unstructured-Data-Ingestion-Engines&type=date&legend=top-left)
 
 ---
 
